@@ -4,7 +4,7 @@ A passionate Full-Stack Software Engineer based in Toronto, I craft elegant code
 
 <br>
 
-## 🌟 A Bit About Me:
+## 🌟 A Bit About Me
 - 💻 **Tech Enthusiast** with a keen interest in everything from Kubernetes clusters to sleek UI design.
 - 👨‍💻 Experienced in leading projects, mentoring teams, and enhancing application performance.
 - 💼 Currently working at **Fintros Inc.** as a Full Stack Developer.
