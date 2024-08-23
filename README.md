@@ -13,7 +13,7 @@ A passionate Full-Stack Software Engineer based in Toronto, I craft elegant code
 
 <br>
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
