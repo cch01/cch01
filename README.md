@@ -75,7 +75,7 @@ A passionate Full-Stack Software Engineer based in Toronto, I craft elegant code
 ## 🚀 Projects
 
 ### [🐭 Mouse Automator](https://github.com/cch01/mouse-automator)
-Ever wished for a simpler way to automate those tedious mouse clicks? Look no further! Mouse Automator is a cross-platform desktop application designed to automate mouse actions with precision and flexibility. Built using **Electron**, **React.js**, and **nut.js**, this app runs on **Mac**, **Windows**, and *(soon) Linux*. Whether for gaming, testing, or repetitive tasks, Mouse Automator has your back!
+Ever wished for a simpler way to automate those tedious mouse clicks? Look no further! Mouse Automator is a cross-platform desktop application designed to automate mouse actions with precision and flexibility. Built using **Electron**, **React.js**, and **nut.js**, this app runs on **Mac**, **Windows**, and **Linux**. Whether for gaming, testing, or repetitive tasks, Mouse Automator has your back!
 
 Features:
 - 🎯 Target applications and customize click types.
