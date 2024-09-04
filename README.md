@@ -9,7 +9,8 @@ A passionate Full-Stack Software Engineer based in Toronto, I craft elegant code
 - 👨‍💻 Experienced in leading projects, mentoring teams, and enhancing application performance.
 - 💼 Currently working at **Fintros Inc.** as a Full Stack Developer.
 - 🎓 MSc in Information Technology from **The Hong Kong Polytechnic University**.
-- 🐱 Cat Slave 💘  
+- 🐱 Cat Slave 💘
+- 🐣 Sparrow Lover
 
 <br>
 
