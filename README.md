@@ -76,7 +76,10 @@ A passionate Full-Stack Software Engineer based in Toronto, I craft elegant code
 ## 🚀 Projects
 
 
-### [🎮 Just Tetris](https://github.com/cch01/just-tetris)  
+### [🎮 Just Tetris](https://github.com/cch01/just-tetris)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a6e2e355-6a64-4771-b7c5-31e7bcba5dc1/deploy-status)](https://app.netlify.com/sites/roaring-starburst-3a58cb/deploys)
+<br>
+
 Dive into the timeless world of Tetris with **Just Tetris**! A modern take on the classic game, this Progressive Web App combines sleek design, intuitive controls, and robust customization options. Built with **React**, **TailwindCSS**, and **Vite**, **Just Tetris** offers an unparalleled experience for both casual and competitive players alike. Whether you're here to beat your high score or challenge friends online (coming soon!), this app has you covered.  
 
 #### Features:
@@ -105,6 +108,8 @@ Ever wished for a simpler way to automate those tedious mouse clicks? Look no fu
 - 🔥 More coming [here](https://github.com/cch01/mouse-automator?tab=readme-ov-file#%EF%B8%8Ffeature-roadmap) ... 🔥
 
 ### [🍁 Ontario Diner](https://github.com/cch01/ontario-diner)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0ac24d41-93e2-4ba3-909b-6f471115e398/deploy-status)](https://app.netlify.com/sites/adorable-smakager-ec6c0e/deploys)
+<br>
 Ontario Diner is your go-to web app for seamless bill splitting and tipping. Whether it’s taxes, discounts, or sharing costs with friends, this PWA makes the entire process smooth and hassle-free. Built with **React.js**, **TypeScript**, and **TailwindCSS**, it delivers a sleek, intuitive experience, and even works offline thanks to **VitePWA**. Never overpay on your meal again!
 
 #### Features:
