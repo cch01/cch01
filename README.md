@@ -75,10 +75,29 @@ A passionate Full-Stack Software Engineer based in Toronto, I craft elegant code
 
 ## 🚀 Projects
 
+
+### [🎮 Just Tetris](https://github.com/cch01/just-tetris)  
+Dive into the timeless world of Tetris with **Just Tetris**! A modern take on the classic game, this Progressive Web App combines sleek design, intuitive controls, and robust customization options. Built with **React**, **TailwindCSS**, and **Vite**, **Just Tetris** offers an unparalleled experience for both casual and competitive players alike. Whether you're here to beat your high score or challenge friends online (coming soon!), this app has you covered.  
+
+#### Features:
+- 🧩 Self-implemented, meticulously crafted Tetris logic.  
+- 📱 Fine-tuned silky smooth touch control experience.  
+- ⚙️ Customize board dimensions (width, height) and difficulty levels.  
+- 💾 Save configurations and track your **high scores**.  
+- 📐 Auto-adjust dimensions for seamless window resizing.  
+- 🌐 Fully optimized **Progressive Web App** for use on any device.  
+
+#### Coming Soon:  
+- 🚀 Dedicated server for real-time online matching and scoreboard tracking.  
+- 🏆 Compete with friends or other players in dynamic multiplayer mode.  
+
+Check out [Just Tetris](https://just-tetris.cch-4679.ca) and relive the magic of Tetris, reimagined for today's web!  
+
+
 ### [🐭 Mouse Automator](https://github.com/cch01/mouse-automator)
 Ever wished for a simpler way to automate those tedious mouse clicks? Look no further! Mouse Automator is a cross-platform desktop application designed to automate mouse actions with precision and flexibility. Built using **Electron**, **React.js**, and **nut.js**, this app runs on **Mac**, **Windows**, and **Linux**. Whether for gaming, testing, or repetitive tasks, Mouse Automator has your back!
 
-Features:
+#### Features:
 - 🎯 Target applications and customize click types.
 - ⚙️ Save and reload your settings automatically.
 - 🖥️ Native system tray and notification support.
@@ -88,7 +107,7 @@ Features:
 ### [🍁 Ontario Diner](https://github.com/cch01/ontario-diner)
 Ontario Diner is your go-to web app for seamless bill splitting and tipping. Whether it’s taxes, discounts, or sharing costs with friends, this PWA makes the entire process smooth and hassle-free. Built with **React.js**, **TypeScript**, and **TailwindCSS**, it delivers a sleek, intuitive experience, and even works offline thanks to **VitePWA**. Never overpay on your meal again!
 
-Features:
+#### Features:
 - 🌐 Simple tax calculations (Federal & Provincial).
 - 🎯 Real-time discounts and customizable tip options.
 - 👥 Easy bill-splitting among friends and family.
